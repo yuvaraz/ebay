@@ -1,0 +1,4 @@
+com\appium\base\GenerateLogs.class
+com\appium\base\CommonMethod.class
+com\appium\base\ExcelReader.class
+com\appium\base\BaseClass.class
